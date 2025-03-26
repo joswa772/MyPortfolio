@@ -11,6 +11,9 @@
         margin: -26px 50px;
         padding: 0 1.5rem;
     }
+    .navbar.scrolled {
+        background:transparent;
+    }
       .hero {
         padding: 4rem 1rem;
         min-height: 100vh;

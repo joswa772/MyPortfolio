@@ -70,10 +70,10 @@
     }
 
     .hero-content {
-        padding: 2rem;
+        padding: 0rem;
         text-align: center;
           background: rgba(0, 0, 0, 30%);
-        margin-right: -65%;
+        margin-right: -60%;
         margin-top: 11rem;
         animation: fadeInUp 3.5s ease forwards
     }
